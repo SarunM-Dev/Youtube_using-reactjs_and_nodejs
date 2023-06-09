@@ -1,0 +1,23 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarunM-Dev/Youtube_using-reactjs_and_nodejs.git"
+  },
+  "author": "Sarun M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarunM-Dev/Youtube_using-reactjs_and_nodejs/issues"
+  },
+  "homepage": "https://github.com/SarunM-Dev/Youtube_using-reactjs_and_nodejs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
